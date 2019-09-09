@@ -1,0 +1,12 @@
+[package]
+name = "hegh"
+version = "0.1.0"
+authors = ["Kris <kristhesavage@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "hegh"
+
+[dependencies]
+ggez = "0.5"
+rand = "0.7"
